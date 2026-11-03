@@ -1,9 +1,9 @@
 [package]
 name = "pest_stack_guard"
 description = "Internal native stack probing for pest"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
-authors = ["DTomas Tauber <me@tomtau.be>"]
+authors = ["Tomas Tauber <me@tomtau.be>"]
 homepage = "https://pest.rs/"
 repository = "https://github.com/pest-parser/pest_stack_guard"
 documentation = "https://docs.rs/pest_stack_guard"
